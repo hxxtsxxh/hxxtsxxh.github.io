@@ -28,3 +28,7 @@ h2 {
   max-width: 600px;
   margin-left: 40px;
 }
+
+p {
+  color: blueviolet;
+}
